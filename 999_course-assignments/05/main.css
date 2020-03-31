@@ -1,0 +1,17 @@
+p {
+    margin: 40px;
+    max-width: 800px;
+    text-indent: 20px;
+
+}
+
+p::first-letter {
+    font-family: "Corsiva Hebrew";
+    font-size: 50px;
+    line-height: 1;
+}
+
+p::first-line {
+    color: goldenrod;
+    font-weight: 1000;
+}
