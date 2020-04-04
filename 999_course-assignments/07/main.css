@@ -1,0 +1,68 @@
+/*(0-0-1)*/
+h1 {
+    width: 500px;
+    height: 40px;
+    border: solid 2px;
+    color: darkorange;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/*(0-0-1)*/
+div {
+    width: 700px;
+    height: 700px;
+    border: solid 2px;
+    color: darkgoldenrod;
+}
+
+/*(0-0-1)*/
+p {
+    width: 600px;
+    height: 25px;
+    border: solid 1px;
+    color: darkmagenta;
+    margin: 0 auto;
+}
+
+/*(1-0-0)*/
+#dos {
+    width: 600px;
+    height: 250px;
+    color: darkgreen;
+    margin: 0 auto;
+}
+
+/*(1-0-0)*/
+#dont {
+    width: 600px;
+    height: 250px;
+    color: maroon;
+    margin: 0 auto;
+}
+
+/*(0-1-0)*/
+.reminder {
+    color: lightcoral;
+}
+
+/*(0-1-0)*/
+.important {
+    color: limegreen;
+}
+
+/*(0-1-0)*/
+.highlight {
+    color: red;
+}
+
+/*(0-0-1)*/
+h2 {
+    text-decoration: underline;
+    color: Blue;
+}
+
+/*(1-1-1)*/
+div #dos .important {
+    color: aqua;
+}
