@@ -1,0 +1,13 @@
+.inline {
+    display: inline;
+    border: solid 1pt;
+}
+
+.block {
+    display: block;
+    border: solid 1px;
+}
+
+span {
+    border: solid 1px;
+}
