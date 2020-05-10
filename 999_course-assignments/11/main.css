@@ -1,0 +1,52 @@
+h1{
+    color: grey;
+    text-shadow: 1px 1px 2px red;
+}
+
+#eliot{
+    font-family: serif;
+}
+
+#picasso{
+    font-family: sans-serif;
+}
+
+#davinci{
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+#disney{
+    text-decoration: line-through;
+}
+
+#buddha{
+    letter-spacing: .5rem;
+}
+
+#seuss{
+    font-family: "Montserrat" ;
+    font-weight: 200;
+}
+
+#pan{
+    font-family: "Montserrat" ;
+    font-weight: 400;
+}
+
+#angelou{
+    font-family: "Montserrat" ;
+    font-weight: 600;
+}
+
+#lorem{
+    text-indent: 50px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
