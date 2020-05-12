@@ -1,0 +1,47 @@
+html, body, div {
+    box-sizing: border-box;
+}
+html{
+    border: 1px dashed red;
+    height: 100%;
+}
+
+body{
+    display: flex;
+    flex-flow: row wrap;
+    margin: 0 auto;
+}
+
+div{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    font-weight: bold;
+}
+
+.d1{
+    width: 100%;
+    background-color: salmon;
+}
+
+.d2{
+    width: 50%;
+    background-color: lightblue;
+}
+
+.d3{
+    width: 50%;
+    background-color: lightgreen;
+}
+
+.d4{
+    width: 60%;
+    background-color: yellow;
+}
+
+.d5{
+    width: 40%;
+    background-color: mediumpurple;
+}

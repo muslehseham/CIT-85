@@ -1,0 +1,41 @@
+html, body, div {
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-flow: row wrap;
+    width: 800px;
+    margin: 0 auto;
+    border: 3px solid red;
+    padding: 0;
+    margin: 0 auto;
+}
+
+div{
+    height: 150px;
+}
+
+.d1{
+    width: 60%;
+    background-color: darkblue;
+}
+
+.d2{
+    width: 40%;
+    background-color: blue;
+}
+.d3{
+     width: 33.3%;
+     background-color: powderblue;
+ }
+
+.d4{
+    width: 33.3%;
+    background-color: lightblue;
+}
+
+.d5{
+    width: 33.3%;
+    background-color: lightsteelblue;
+}

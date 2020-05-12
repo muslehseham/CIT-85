@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-flow: row wrap;
+}
+div{
+    width: 200px;
+    height: 100px;
+    background-color: coral;
+    border: 1px solid black;
+    margin: 1em;
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+#grow{
+    flex-grow: 2;
+}

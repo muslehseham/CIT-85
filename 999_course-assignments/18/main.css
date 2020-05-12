@@ -1,0 +1,16 @@
+body{
+    display: flex;
+}
+
+div{
+    border: 1px solid black;
+    width: 400px;
+    height: 100px;
+}
+
+.uno{
+    flex-grow: 1;
+}
+.dos{
+    flex-grow: 2;
+}
