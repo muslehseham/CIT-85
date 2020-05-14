@@ -1,0 +1,28 @@
+html{
+    border: 1px solid pink;
+}
+
+body{
+    border: 1px solid green;
+}
+
+div{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+    border: 1px solid cornflowerblue;
+}
+
+.uno{
+    position: absolute;
+    right: 25px;
+    top: 50px;
+    width: 75px;
+    height: 75px;
+    background-color: thistle;
+    border: 1px solid purple;
+
+
+
+}
