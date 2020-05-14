@@ -1,0 +1,38 @@
+body,header,article,aside,footer{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-flow: row wrap;
+    font-weight: bold;
+}
+
+header,article,aside,footer{
+    width: 100%;
+    padding: 5px;
+    text-align: center;
+}
+
+header{
+    background-color: salmon;
+}
+
+article{
+    background-color: lightskyblue;
+    text-align: left;
+}
+
+.first{
+    background-color: gold;
+}
+
+.second{
+    background-color: hotpink;
+}
+
+footer{
+    background-color: yellowgreen;
+}

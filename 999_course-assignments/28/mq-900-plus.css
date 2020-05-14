@@ -1,0 +1,23 @@
+article{
+    width: 70%;
+}
+
+aside{
+    width: 15%
+}
+
+.first{
+    order: 1;
+}
+
+article{
+    order: 2;
+}
+
+.second{
+    order: 3;
+}
+
+footer{
+    order: 4;
+}
