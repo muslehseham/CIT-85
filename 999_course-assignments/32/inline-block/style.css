@@ -1,0 +1,37 @@
+
+#d1,#d4{
+    height: 150px;
+    width: 100%;
+}
+
+#d2, #d3, #d5{
+    height: 200px;
+}
+
+#d1 {
+    background-color: yellow;
+    border: 10px solid blue;
+}
+
+#d2{
+    background-color: lightblue;
+    border: 10px solid black;
+    width: 25%;
+}
+
+#d3{
+    background-color: mediumseagreen;
+    border: 10px solid black;
+    width: 75%;
+}
+
+#d4{
+    background-color: purple;
+    border: 10px solid red;
+}
+
+#d5{
+    display: inline-block;
+    border: 10px solid green;
+    width: 100%;
+}

@@ -1,0 +1,19 @@
+div{
+    height: 300px;
+    width: 300px;
+    border-radius: 150px;
+    background-color: green;
+    display: flex;
+    flex-flow: row nowrap;
+}
+
+div{
+    transition-property: background-color;
+    transition-duration: 750ms;
+    transition-timing-function: ease-in-out;
+    /*transition-delay: 1s;*/
+}
+
+div:hover{
+    background-color: orange;
+}
