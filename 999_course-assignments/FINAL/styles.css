@@ -12,17 +12,17 @@
     color: whitesmoke;
     text-shadow: 1px 1px 2px black;
     font-family: 'Raleway', sans-serif;
-    font-size: 2rem;
+    font-size: 3rem;
     text-align: center;
 }
 
 .top{
-    border: 1px solid white;
     opacity: 20%;
     background-color: orange;
 
 }
-a{
+
+.top{
     font-family: 'Raleway', sans-serif;
     color: white;
     text-align: center;
@@ -38,4 +38,37 @@ a{
     color: white;
     text-align: center;
     font-size: 1rem;
+}
+
+
+h1{
+    color: #563727;
+    font-size: 2rem;
+    font-family: 'Raleway', sans-serif;
+}
+
+.p1,.p2{
+    font-size: 1.5rem;
+}
+
+.h2{
+    font-family: 'Raleway', sans-serif;
+    color: orange;
+}
+
+.s1{
+    text-align: center;
+    height: 300px;
+}
+
+.s2{
+    height: 1100px;
+}
+
+.s3{
+    height: 700px;
+}
+
+.s4{
+    height: 100%;
 }
