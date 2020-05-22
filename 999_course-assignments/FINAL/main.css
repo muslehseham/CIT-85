@@ -32,7 +32,7 @@ header{
     background-attachment: fixed;
 }
 .oreo {
-    background-color: #DED1BD;
+    background-color: hwb(36, 74%, 13%);
     width: 500px;
     height: 500px;
     float: right;
