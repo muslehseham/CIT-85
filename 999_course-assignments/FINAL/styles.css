@@ -1,0 +1,41 @@
+/*Theme Colors Reference*/
+/*whitesmoke*/
+/*sandybrown*/
+/*duststorm: #DED1BD*/
+/*vandykebrown: #683B2B*/
+/*acajou: #563727*/
+/*coconut: #8F5B34*/
+/*mandarin: #E68244*/
+/*palegold(foundation): #E8B38C*/
+
+.atf{
+    color: whitesmoke;
+    text-shadow: 1px 1px 2px black;
+    font-family: 'Raleway', sans-serif;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.top{
+    border: 1px solid white;
+    opacity: 20%;
+    background-color: orange;
+
+}
+a{
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+.top:hover{
+    opacity: 100%;
+}
+
+.high{
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 1rem;
+}
